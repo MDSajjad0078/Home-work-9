@@ -1,0 +1,75 @@
+* {
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+#row  {
+width: 100%;
+float: left;
+}
+.container  {
+
+width: 90%;
+margin: auto;
+background-color: aqua;
+
+}
+
+.logo-part {
+width: 30%;
+float: left;
+background-color: aquamarine;
+}
+.logo-part img {
+
+width: 90%;
+float: left;
+}
+
+
+
+.meno-part {
+width: 40%;
+float: left;
+background-color: brown;
+}
+.meno-part ul {
+
+}
+.meno-part li {
+
+}
+.meno-part a {
+
+}
+.search-part {
+width: 30%;
+float: left;
+background-color: blue;
+
+}
+#hero {
+width: 100%;
+float: left;
+
+}
+.hero-writing-part{
+
+width: 50%;
+float: left;
+}
+.hero-img-part{
+
+width: 40%;
+float: left;
+text-align: center;
+
+}
+ .hero-img-part img {
+
+width: 80%;
+
+ }
